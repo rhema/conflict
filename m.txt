@@ -1,17 +1,5 @@
-<<<<<<< HEAD
-mongoose season
-=======
-tiger season
->>>>>>> refs/remotes/origin/master
-Change me.
-here
-hairs
-everywhere
-this
-line
-is
-here
-to
-never
-get
-old
+all the world is a stage
+one
+two
+three
+four
